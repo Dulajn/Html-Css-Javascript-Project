@@ -1,0 +1,25 @@
+﻿
+.nta {
+    height: 20vh;
+    width: 100%;
+    background-color: dodgerblue;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+
+
+.navbar logo {
+    position: fixed;
+    float: left;
+    margin: 16px 60px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+
+
+
